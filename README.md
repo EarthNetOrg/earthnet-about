@@ -5,7 +5,7 @@ EarthNet exists to promote global health and well-being.
 EarthNet is 
 1. [an ecosystem](#the-earthnet-ecosystem)
 2. [a digital directory](#the-earthnet-directory)
-3. [a non-profit organization](the-earthnet-organization).
+3. [a non-profit organization](#the-earthnet-organization).
 
 ## The EarthNet Ecosystem
 
